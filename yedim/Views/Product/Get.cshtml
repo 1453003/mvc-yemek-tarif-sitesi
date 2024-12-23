@@ -1,0 +1,26 @@
+﻿@*
+    @{
+        Layout = null; eğer layout kullanmak istemezsem  bu kodu kullanabilirisin.
+    }
+*@
+
+
+
+
+@model Product
+
+
+
+<h3>@Model.ProductName</h3>
+<p>@Model.Price</p>
+<div class="btn-group">
+    <a class="btn btn-dark" asp-controller="Home" asp-action="Index"> 
+        <i class="fa-solid fa-house"></i>
+    Home</a>
+    <a class="btn btn-outline-dark" asp-controller="Product" asp-action="Index"> 
+        <i class="fa-solid fa-list"></i>
+    Products</a>
+
+</div>
+
+
