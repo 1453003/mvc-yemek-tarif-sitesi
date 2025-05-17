@@ -52,11 +52,17 @@ Bu proje, ASP.NET MVC yapısını öğrenmek ve gerçek bir CRUD uygulaması gel
 
 📦 yemek-sitesi/
 ├── Controllers/ # MVC controller dosyaları
+
 ├── Models/ # Veri modelleri
+
 ├── Views/ # Razor view'ları (UI)
+
 ├── wwwroot/ # Statik dosyalar (CSS, JS, görseller)
+
 ├── Migrations/ # Entity Framework migration kayıtları
+
 ├── appsettings.json # Veritabanı bağlantı ayarları
+
 └── yemek-sitesi.sln # Visual Studio çözüm dosyası
 
 ##📚 Öğrenilen Konular
