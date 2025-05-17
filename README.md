@@ -51,6 +51,7 @@ Bu proje, ASP.NET MVC yapısını öğrenmek ve gerçek bir CRUD uygulaması gel
 ## 🗂️ Proje Dosya Yapısı
 
 📦 yemek-sitesi/
+
 ├── Controllers/ # MVC controller dosyaları
 
 ├── Models/ # Veri modelleri
