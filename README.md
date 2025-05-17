@@ -67,6 +67,7 @@ Bu proje, ASP.NET MVC yapısını öğrenmek ve gerçek bir CRUD uygulaması gel
 └── yemek-sitesi.sln # Visual Studio çözüm dosyası
 
 ##📚 Öğrenilen Konular
+
 ├──ASP.NET MVC Controller-View-Model mimarisi
 
 ├──Razor ile dinamik HTML sayfaları oluşturma
